@@ -1,5 +1,7 @@
 # Password Generator
 
+![Screenshot (62)](https://user-images.githubusercontent.com/88353631/134773191-46f6ea2e-ed30-4cb3-9ae3-07e021227bc0.png)
+
 #### PasswordGenerator, 09/25/21
 
 #### By Yah'Mir McGhee
